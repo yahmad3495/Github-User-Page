@@ -1,6 +1,7 @@
 # Younus Ahmad
 >**“We cannot solve problems with the kind of thinking we employed when we came up with them.” — Albert Einstein**
 
+`print(Hello World!)`
 ## About Me
 
 <img src="Screenshots/self-image.png" alt="self" width="300">
@@ -40,6 +41,12 @@ My name is Younus and I am a 3rd year Computer Engineering major in 7th college.
 
 -I love movies, TV shows, and anime. Super hard to pick favorites, but I really enjoyed Attack on Titan a lot.
 
+## Goals
+- [ ] Hit Radiant in Valorant
+- [ ] Work at google and make 7 figures in year
+- [ ] Travel to at least 5 other countries
+- [ ] Become the best programmer in all of existence
+
 ## Projects
 
 ### 1. E4E: Radio Telemetry Tracker
@@ -55,5 +62,6 @@ My name is Younus and I am a 3rd year Computer Engineering major in 7th college.
 - Created a twitter bot that would work towards scraping tweets that were about coronavirus. This was done primarily using Python Regex.
 
 ## Links
-- [Github](https://github.com/yahmad3495)
+[Github](https://github.com/yahmad3495)
+[Linkedin](https://www.linkedin.com/in/younus-ahmad-64a1521b2/)
 
